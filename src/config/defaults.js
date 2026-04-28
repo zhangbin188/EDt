@@ -6,7 +6,7 @@
  * Default user ID (UUID format)
  * Generate UUID: [Windows] Press "Win + R", input cmd and run: Powershell -NoExit -Command "[guid]::NewGuid()"
  */
-export const defaultUserID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+export const defaultUserID = 'a4058757-9099-4410-b324-29284609be87';
 
 /**
  * Default Trojan password
@@ -18,7 +18,7 @@ export const defaultTrojanPassword = '';
  * Array of proxy server addresses with ports
  * Format: ['hostname:port', 'hostname:port']
  */
-export const proxyIPs = ['cdn.xn--b6gac.eu.org:443', 'cdn-all.xn--b6gac.eu.org:443'];
+export const proxyIPs = ['proxyip.newyear.eu.cc:443'];
 
 /**
  * Default SOCKS5 proxy configuration
