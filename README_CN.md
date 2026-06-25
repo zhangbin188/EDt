@@ -1,5 +1,7 @@
 # EDtunnel
 
+# 不混淆 更改package.json 中的  "obfuscate": "npm run bundle && cp dist/bundle.js _worker.js"
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/6Kmfi6HP/EDtunnel/refs/heads/main/image/logo.png" alt="EDtunnel" style="margin-bottom: -50px;">
 </p>
